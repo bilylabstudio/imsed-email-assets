@@ -6,4 +6,5 @@ COPY ia-medios-v1/ /usr/share/nginx/html/ia-medios-v1/
 COPY rrhh-v1/ /usr/share/nginx/html/rrhh-v1/
 COPY email-v4/ /usr/share/nginx/html/email-v4/
 COPY email-v5/ /usr/share/nginx/html/email-v5/
+COPY email-v6/ /usr/share/nginx/html/email-v6/
 EXPOSE 80
