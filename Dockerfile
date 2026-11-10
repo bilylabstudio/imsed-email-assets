@@ -8,3 +8,4 @@ COPY email-v4/ /usr/share/nginx/html/email-v4/
 COPY email-v5/ /usr/share/nginx/html/email-v5/
 COPY email-v6/ /usr/share/nginx/html/email-v6/
 EXPOSE 80
+
